@@ -29,3 +29,5 @@ go run name_of_go_file.go then press enter
 ```
 go fmt name_of_go_file.go then press enter
 ```
+
+> Every file named go.mod is a go module
