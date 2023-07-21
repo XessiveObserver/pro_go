@@ -36,4 +36,6 @@ go fmt name_of_go_file.go then press enter
 
 In your working directory enter
 
-`go work init`
+```
+go work init
+```
